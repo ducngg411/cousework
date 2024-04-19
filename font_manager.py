@@ -3,7 +3,7 @@ import tkinter.font as tkfont
 
 def configure():
     # family = "Segoe UI"
-    family = "Helvetica"
+    family = "CircularSp"
     default_font = tkfont.nametofont("TkDefaultFont")
     default_font.configure(size=15, family=family)
     text_font = tkfont.nametofont("TkTextFont")
